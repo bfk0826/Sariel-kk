@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://raw.githubusercontent.com/bfk0826/Sariel-kk/main/pwa-icon.png>; rel=icon"
+        }
+      ]
+    }
+  ]
+}
